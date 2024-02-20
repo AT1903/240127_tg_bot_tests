@@ -1,0 +1,79 @@
+{
+  "current_test": "",
+  "current_tkt": "",
+  "current_question": 32,
+  "my_tests": {
+    "1": {
+      "name":"А1",
+      "test_mode": 1,
+      "tickets": {
+        "1": {
+          "questions": {
+            "1": {
+              "q": [
+                "Вопрос",
+                "Ответ1",
+                "Ответ2",
+                "Ответ3"
+              ],
+              "status":1,
+              "statistics":""
+            },
+            "2": {
+              "q": [
+                "Вопрос",
+                "Ответ1",
+                "Ответ2",
+                "Ответ3"
+              ],
+              "status":0,
+              "statistics":""
+            },
+            "3": {
+              "q": [
+                "Вопрос",
+                "Ответ1",
+                "Ответ2",
+                "Ответ3"
+              ],
+              "status":1,
+              "statistics":""
+            },
+            "4": {
+              "q": [
+                "Вопрос",
+                "Ответ1",
+                "Ответ2",
+                "Ответ3"
+              ],
+              "status":1,
+              "statistics":""
+            }
+          },
+          "status": {}
+        },
+        "2": {}
+      },
+      "current_test": {},
+      "current_tkt": {},
+      "current_question": {}
+    },
+    "2": {
+      "name":"Б1",
+      "test_mode": "1",
+      "tickets": {
+        "1": {
+          "questions": {
+            "1": {},
+            "2": {}
+          },
+          "status": {}
+        },
+        "2": {}
+      },
+      "current_test": {},
+      "current_tkt": {},
+      "current_question": {}
+    }
+  }
+}
